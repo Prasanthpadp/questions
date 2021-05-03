@@ -30,7 +30,7 @@ export default function Home() {
             className={styles.card}
           >
             <h3>Machine Learning Interview Questions &rarr;</h3>
-            <p>Find in-depth information about qustions asked in a ML Interview..</p>
+            <p>Find in-depth information about qustions asked in a Machine Learning Interview.</p>
           </a>
 
           <a
@@ -39,7 +39,7 @@ export default function Home() {
           >
             <h3>Tableau Interview Questions &rarr;</h3>
             <p>
-              Find in-depth information about qustions asked in a Tableau Interview..
+              Find in-depth information about qustions asked in a Tableau Interview.
             </p>
           </a>
         </div>
