@@ -22,7 +22,7 @@ export default function Home() {
 
           <a href="https://www.interviewbit.com/spring-boot-interview-questions/" className={styles.card}>
             <h3>Spring Boot Interview Questions &rarr;</h3>
-            <p>Learn about questions asked in a Spring Boot Interview!</p>
+            <p>Find in-depth information about qustions asked in a Spring Boot Interview!</p>
           </a>
 
           <a
