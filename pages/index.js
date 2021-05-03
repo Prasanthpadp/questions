@@ -11,40 +11,35 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to Techhbox
         </h1>
 
-        <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
-
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+          <a href="https://www.interviewbit.com/jenkins-interview-questions/" className={styles.card}>
+            <h3>Jenkins Interview Questions &rarr;</h3>
+            <p>Find in-depth information about qustions asked in a Jenkins Interview.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={styles.card}
-          >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+          <a href="https://www.interviewbit.com/spring-boot-interview-questions/" className={styles.card}>
+            <h3>Spring Boot Interview Questions &rarr;</h3>
+            <p>Learn about questions asked in a Spring Boot Interview!</p>
           </a>
 
           <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://www.interviewbit.com/machine-learning-interview-questions/"
             className={styles.card}
           >
-            <h3>Deploy &rarr;</h3>
+            <h3>Machine Learning Interview Questions &rarr;</h3>
+            <p>Find in-depth information about qustions asked in a ML Interview..</p>
+          </a>
+
+          <a
+            href="https://www.interviewbit.com/tableau-interview-questions/"
+            className={styles.card}
+          >
+            <h3>Tableau Interview Questions &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Find in-depth information about qustions asked in a Tableau Interview..
             </p>
           </a>
         </div>
