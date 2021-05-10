@@ -19,10 +19,20 @@ export default function Home() {
             <h3>Jenkins Interview Questions &rarr;</h3>
             <p>Find in-depth information about qustions asked in a Jenkins Interview.</p>
           </a>
-
+    
           <a href="https://www.interviewbit.com/spring-boot-interview-questions/" className={styles.card}>
             <h3>Spring Boot Interview Questions &rarr;</h3>
             <p>Find in-depth information about qustions asked in a Spring Boot Interview!</p>
+          </a>
+
+          <a href="https://www.interviewbit.com/azure-interview-questions/" className={styles.card}>
+            <h3>Azure Interview Questions &rarr;</h3>
+            <p>Find in-depth information about qustions asked in a Azure Interview!</p>
+          </a>
+    
+          <a href="https://www.interviewbit.com/laravel-interview-questions/" className={styles.card}>
+            <h3>Laravel Interview Questions &rarr;</h3>
+            <p>Find in-depth information about qustions asked in a Laravel Interview!</p>
           </a>
 
           <a
